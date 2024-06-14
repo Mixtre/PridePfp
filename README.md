@@ -1,6 +1,6 @@
-# PridePic 🌈
+# PridePfp 🌈
 
-PridePic is a web application built with Flask and PIL that allows users to add LGBTQIA+ themed borders to profile pictures.
+PridePfp is a web application built with Flask and PIL that allows users to add LGBTQIA+ themed borders to profile pictures.
 
 ## ✨ Features
 
