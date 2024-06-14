@@ -20,4 +20,4 @@ Contributions to PridePic are welcome! If you have suggestions, feature requests
 
 ## 📄 License
 
-This project is licensed under the Apacha 2.0 License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](LICENSE) file for more information.
